@@ -1,0 +1,1 @@
+*.log\n*.exe\n*.o\n.DS_Store\nbuild/
