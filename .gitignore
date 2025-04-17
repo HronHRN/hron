@@ -1,1 +1,35 @@
 *.log\n*.exe\n*.o\n.DS_Store\nbuild/
+# macOS / Windows
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Logs
+*.log
+
+# Compiled files
+*.out
+*.o
+*.a
+*.so
+*.pyc
+*.class
+
+# IDE/editor settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# System
+node_modules/
+__pycache__/
+AppData/
+*.7z
+*.zip
+*.tar
+*.gz
+
+# Git
+.gitignore
